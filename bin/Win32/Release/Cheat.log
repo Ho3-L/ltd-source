@@ -1,0 +1,10 @@
+﻿     Creating library H:\ltd new source\build\gs.lib and object H:\ltd new source\build\gs.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1100 of 23934 functions ( 4.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    281 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'H:\ltd new source\build\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'H:\ltd new source\build\detours.pdb'; linking object as if no debug info
+  Cheat.vcxproj -> H:\ltd new source\build\gs.dll
