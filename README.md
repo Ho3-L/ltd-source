@@ -1,4 +1,4 @@
-# gamesense.ltd source
+# gamesense/ltd source
  
  ![image](https://user-images.githubusercontent.com/98117900/194738180-308727c0-0951-4e00-b181-3895c71a6e0d.png)
 
